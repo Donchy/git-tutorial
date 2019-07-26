@@ -7,3 +7,5 @@ show the status of repository
 # directory .git
 work tree attached to the repository
 
+# fix-b branch
+Add in fix-b branch
