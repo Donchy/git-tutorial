@@ -1,5 +1,5 @@
-#git init	
-initialization of repository
+##git init	
+..initialization of repository
 
 #git status
 show the status of repository
