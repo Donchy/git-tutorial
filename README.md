@@ -7,3 +7,6 @@ show the status of repository
 # directory .git
 work tree attached to the repository
 
+# Add in feature-A branch
+- feature-A
+
