@@ -1,9 +1,9 @@
-##git init	
-..initialization of repository
+## git init	
+.. initialization of repository
 
-#git status
+# git status
 show the status of repository
 
-#directory .git
+# directory .git
 work tree attached to the repository
 
