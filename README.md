@@ -10,3 +10,5 @@ work tree attached to the repository
 # Add in feature-A branch
 - feature-A
 
+# fix-b branch
+Add in fix-b branch
