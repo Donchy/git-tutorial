@@ -15,3 +15,6 @@ Add in fix-b branch
 
 # feature-C branch
 - I fixed it to a right word--feature
+
+# freature-D branch
+- Add in feature-D branch---by another
